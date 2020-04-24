@@ -1,4 +1,4 @@
-# Palestinian COVID19
+# Palestinian COVID-19
 
 The novel coronavirus SARS-CoV-2 (COVID-19), has spread to many countries. Given the fragile health systems in most countries, and especially in war zones, we studied the data available in Palestine as well as their possible evolution. 
 We address the following fundamental issues concerning this epidemic: How will the epidemic evolve in Palestine concerning the number of reported cases and unreported cases? How will the number of unreported cases influence the severity of the epidemic? Most of the Palestinian territories live under a blockade and apartheid. What is the effect of these oppressive policies on the epidemic? To answer these questions, we developed mathematical models that recover from data of reported cases and the number of unreported cases for the COVID-19 epidemic in Palestine. 
